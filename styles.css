@@ -1,0 +1,65 @@
+header {
+    align-items: center;
+    color: rgb(27, 25, 25);
+    background-color: #2e617f;
+    display: inline;
+    justify-content: space-evenly;
+
+    background-size: 200%;
+    justify-content: center;
+    background-position: center;
+
+}
+
+footer {
+    background-color: rgb(129, 216, 216);
+    padding: 10px;
+    max-width: max-content;
+    margin: auto;
+
+}
+
+.purple-background {
+    background-color: rgb(129, 216, 216);
+    max-width: max-content;
+}
+
+.centered {
+    text-align: center;
+}
+
+.intro {
+    max-width: 500px;
+    text-align: left;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(photos/bear\ lake\ sunrise.jpg);
+    background-size: 100%;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.rounded {
+    border-radius: 50px;
+}
+
+main {
+    max-width: 800px;
+    margin: auto;
+}
+
+#green {
+    background-color: rgb(90, 232, 90);
+    color: red;
+    border-radius: 5px;
+}
+
+#purple {
+    background-color: pink;
+    color: blue;
+    border-radius: 5px;
+}
