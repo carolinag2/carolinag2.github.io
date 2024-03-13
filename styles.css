@@ -1,17 +1,19 @@
 header {
     align-items: center;
-    color: rgb(220, 71, 71);
+    color: rgb(43, 40, 40);
     background-color: #98c6e1;
-    display: inline;
-    justify-content: space-evenly;
-    background-size: 200%;
-    justify-content: center;
+    /* display: inline;
+    justify-content: space-evenly; */
+    display: flex;
+    background-size: 300%;
+    justify-content: space-between;
     background-position: center;
+    background-image: url(draper.jpg);
 
 }
 
 footer {
-    background-color: rgb(129, 216, 216);
+    background-color: rgb(42, 46, 46);
     padding: 10px;
     max-width: max-content;
     margin: auto;
