@@ -1,10 +1,9 @@
 header {
     align-items: center;
-    color: rgb(27, 25, 25);
-    background-color: #2e617f;
+    color: rgb(220, 71, 71);
+    background-color: #98c6e1;
     display: inline;
     justify-content: space-evenly;
-
     background-size: 200%;
     justify-content: center;
     background-position: center;
@@ -35,7 +34,7 @@ footer {
 
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: url(photos/bear\ lake\ sunrise.jpg);
+    background-color: rgb(240, 195, 140);
     background-size: 100%;
 }
 
